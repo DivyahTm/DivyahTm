@@ -19,8 +19,10 @@ I'm a coding aficionado with a knack for crafting cool stuff with Python, Java, 
 - Implemented data scraping for accurate insights and utilized Bootstrap for slick UI/UX 💡
 
 ## Experience 💼
+- **Gen AI Intern** at EXL Services
+- **ML Intern** at Fafadia Tech
 - **AI Intern** at IBM Skill-Build
-- **ML Intern** at EXL Services
+
 
 ## Education 🎓
 - Bachelor of Engineering in Artificial Intelligence and Data Science, achieving a commendable GPA of 8.9/10 🎓
