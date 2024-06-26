@@ -27,6 +27,11 @@ I'm a coding aficionado with a knack for crafting cool stuff with Python, Java, 
 - Launched and oversaw an independent project aimed at deploying Large Language Models (LLMs) with the Retrieval-Augmented Generation (RAG) framework.  🎶
 - Formulated and executed strategic approaches to maximize RAG’s potential in augmenting both natural language understanding and generation tasks.  📊
 
+### Semantic Image Retrieval Engine (SIRE)
+- Engineered a cutting-edge image search system using Convolutional Neural Networks (CNNs) and Streamlit 🖼️
+- Implemented reverse image search functionality, enabling users to find visually similar images in a vast database 🔍
+-Achieved an impressive 86% accuracy in image recognition tasks through strategic CNN model training 🎯
+
 ### Ship Activity Tracker Web Application
 - Developed a Web Application which implemented a logistic regression-based model to compute distance covered, predict arrival time, and identify ship inactivity.
 - Plotly for real-time updates 📈
